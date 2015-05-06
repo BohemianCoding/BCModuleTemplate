@@ -1,6 +1,4 @@
 
-@import Foundation;
-
 @interface BCChangeMe : NSObject // «changeme»
 
 @end

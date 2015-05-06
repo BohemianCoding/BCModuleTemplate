@@ -1,5 +1,1 @@
-#include "../BCFoundation/Configs/BCRelease.xcconfig"
-
-#include "«changeme»Shared.xcconfig"
-
-// Release-only settings for the «changeme» project go here.
+#import "«changeme»Shared.pch"

@@ -42,7 +42,7 @@
 		5B42DEA21A63DBDA0025C1EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B42DEAD1A63E4350025C1EA /* ECUnitTests.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ECUnitTests.framework; path = "../../../../../Library/Developer/Xcode/DerivedData/BCCrypto-efurtmprkzemrwgfkjfqnkiilreb/Build/Products/Debug/ECUnitTests.framework"; sourceTree = "<group>"; };
 		5B42DEB01A63E81B0025C1EA /* «changeme».m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "«changeme».m"; sourceTree = "<group>"; };
-		5B42DF261A63F3400025C1EA /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = module.modulemap; sourceTree = "<group>"; };
+		5B42DF261A63F3400025C1EA /* «changeme».modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; path = "«changeme».modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 			children = (
 				5B42DE9A1A63D9BE0025C1EA /* Configs */,
 				22D0BF1B1AFA593800AE043D /* Prefixes */,
-				5B42DF261A63F3400025C1EA /* module.modulemap */,
+				5B42DF261A63F3400025C1EA /* «changeme».modulemap */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
