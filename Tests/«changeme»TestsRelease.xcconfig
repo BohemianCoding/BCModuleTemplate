@@ -1,0 +1,4 @@
+#include "../BCFoundation/Configs/BCTestsRelease.xcconfig"
+#include "BCCryptoTests.xcconfig"
+
+// Release-only settings for the «changeme» tests go here.
